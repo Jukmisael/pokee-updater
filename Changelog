@@ -1,0 +1,29 @@
+[
+  {
+    "Version": "1.0.0",
+    "Date": "2024-12-01",
+    "Notes": [
+      "Lançamento inicial do jogo.",
+      "Funcionalidade básica implementada.",
+      "Correção de bugs menores."
+    ]
+  },
+  {
+    "Version": "1.1.0",
+    "Date": "2024-12-15",
+    "Notes": [
+      "Adição de novos recursos de multiplayer.",
+      "Correção de falhas no servidor.",
+      "Melhorias de desempenho."
+    ]
+  },
+  {
+    "Version": "1.2.0",
+    "Date": "2024-12-22",
+    "Notes": [
+      "Melhorias na interface do usuário.",
+      "Suporte a novas resoluções de tela.",
+      "Ajustes no sistema de combate."
+    ]
+  }
+]
